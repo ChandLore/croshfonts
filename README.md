@@ -1,3 +1,8 @@
+Original by wernight at [https://github.com/wernight/powerline-web-fonts]
+
+Only addition is to add DejaVu Sans Mono for Powerline font.
+
+
 # powerline-web-fonts
 
 [Powerline Web Fonts](https://github.com/powerline/fonts) working in [Secure Shell](https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo)
