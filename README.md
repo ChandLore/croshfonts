@@ -23,7 +23,7 @@ See [Slant](http://www.slant.co/topics/67/~programming-fonts) if you don't know 
 
   - Options:
       - font-family: `"Source Code Pro for Powerline", monospace`
-      - user-css: `http://rawgit.com/wernight/powerline-web-fonts/master/PowerlineFonts.css`
+      - user-css: `http://rawgit.com/ChandLore/croshfonts/master/PowerlineFonts.css`
 
 ## Usage example for [Crosh Window](https://chrome.google.com/webstore/detail/crosh-window/nhbmpbdladcchdhkemlojfjdknjadhmh)
 
