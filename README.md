@@ -1,4 +1,4 @@
-Original by wernight at [https://github.com/wernight/powerline-web-fonts]
+Original by wernight at (https://github.com/wernight/powerline-web-fonts)
 
 Only addition is to add DejaVu Sans Mono for Powerline font.
 
