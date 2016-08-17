@@ -1,4 +1,4 @@
-Original by wernight at (https://github.com/wernight/powerline-web-fonts)
+(Original)[https://github.com/wernight/powerline-web-fonts] by wernight
 
 Only addition is to add DejaVu Sans Mono for Powerline font.
 
@@ -15,6 +15,7 @@ There are other fonts as well for you to choose from:
   * `PT Mono` - PT Mono for Powerline
   * `Source Code Pro` or `Source Code Pro for Powerline` - Source Code for Powerline
   * `Ubuntu Mono` - Ubuntu Mono derivative Powerline
+  * `DejaVu Sans Mono for Powerline` - DejaVu Powerline
 
 See [Slant](http://www.slant.co/topics/67/~programming-fonts) if you don't know which to choose.
 
