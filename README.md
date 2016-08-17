@@ -31,7 +31,7 @@ See [Slant](http://www.slant.co/topics/67/~programming-fonts) if you don't know 
   
 ```js
 term_.prefs_.set('font-family', '"Source Code Pro for Powerline", monospace');
-term_.prefs_.set('user-css', 'https://rawgit.com/wernight/powerline-web-fonts/master/PowerlineFonts.css');
+term_.prefs_.set('user-css', 'https://rawgit.com/ChandLore/croshfonts/master/PowerlineFonts.css');
 ```
 
 If you have [Crouton](https://github.com/dnschneid/crouton) installed on a developer mode Chromebook,
